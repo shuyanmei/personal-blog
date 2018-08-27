@@ -1,7 +1,7 @@
 baseURL = "http://shuyanmei.github.io"
 languageCode = "en-us"
 title = "SHUYAN"
-theme = "hyde"
+theme = "ananke"
 # Main Menu
 [[menu.main]]
     name = "Posts"
