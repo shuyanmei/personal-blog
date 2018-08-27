@@ -1,0 +1,37 @@
+baseURL = "http://shuyanmei.github.io"
+languageCode = "en-us"
+title = "SHUYAN"
+theme = "hyde"
+# Main Menu
+[[menu.main]]
+    name = "Posts"
+    weight = 100
+    identifier = "posts"
+    url = "/posts/"
+[[menu.main]]
+    name = "About"
+    identifier = "about"
+    weight = 200
+    url = "/about/"
+[params]
+postNavigation = false
+#themeColor = "theme-base-0d"
+highlightjs = true
+highlightjsstyle = "dark"
+highlightjslanguages = ["python"]
+description = "My personal blog"
+Copyright = "© 2018 . All Rights Reserved. "
+home=""
+[params.social]
+    linkedin = "shuyanmei"
+    github = "shuyanmei"
+[permalinks]
+    page = "/:title/"
+    about = "/:filename/"
+[blackfriday]
+  angledQuotes = true
+  fractions = false
+  plainIDAnchors = true
+  extensions = ["hardLineBreak"]
+
+        
