@@ -14,17 +14,19 @@ Dynamic Order Book - Example:
 
 The input data follows the following format.
 
-| Time Stamp  | Message Type   | Order Reference | Buy/Sell Indicator | Shares| Stock|Price|Broker|
-| :---------: |:-------------:| :-----:|:-----:|:---------: |:-------------:| :-----:|:-----:|
+|Time Stamp   | Message Type   |   Order Reference |  Buy/Sell Indicator |  Shares| Stock  |  Price  |  Broker|
+| :-------------: |:-------------:| :-------------:|:-------------:|:-------------: |:-------------:| :-------------:|:-------------:|
 | milliseconds from midnight| Add Order |Order Reference  |'B' for Buy & 'S' for Sell  |Number of shares |Stock symbol |Price of the order| Broker number(3 digits) |
+
+
 
 Message 1:
 [35474335A 10000002S 500FGH 221000039]
-Message 1 represents order was added at 09:51:14 AM (i.e. 35474335 milliseconds from midnight), the reference number is 10000002. The Buy/Sell indicator indicates that it is a sell order. The number of shares is 500 for stock FGH. The price of order is 22.10 and the broker number is 039.
- 
 
+Message 1 represents order was added at 09:51:14 AM (i.e. 35474335 milliseconds from midnight), the reference number is 10000002. The Buy/Sell indicator indicates that it is a sell order. The number of shares is 500 for stock FGH. The price of order is 22.10 and the broker number is 039.
+ 
 | Best Bid Price  | Best Bid Size   | Best Ask Price  | Best Ask Size |
-| :---------: |:-------------:| :-----:|:-----:|
+| :-------------------:      |     :-----------------------:| :---------------:|:----------:|
 | |  | 22.10 | 500|
 
 

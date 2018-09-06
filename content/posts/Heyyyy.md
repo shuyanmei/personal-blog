@@ -9,6 +9,6 @@ Hello, I finally got my first personal webpage set up!
 
 I will use this website to share some of my projects in statistics, machine learning or programming.
 
-This website is hosted on Github and I used [Hugo](https://gohugo.io/getting-started/quick-start/"Hugo") and [hyde-hyde](https://themes.gohugo.io/hyde-hyde) to set up. 
+This website is hosted on Github and I used [Hugo](https://gohugo.io/getting-started/quick-start/"Hugo") and [Ananke](https://themes.gohugo.io/gohugo-theme-ananke/) to set up. 
 
 

@@ -1,7 +1,10 @@
 baseURL = "http://shuyanmei.github.io"
+relativeURLs = true
+canonifyURLs = true
 languageCode = "en-us"
 title = "SHUYAN"
 theme = "ananke"
+markdown = "multimarkdown"
 # Main Menu
 [[menu.main]]
     name = "Posts"
@@ -15,7 +18,6 @@ theme = "ananke"
     url = "/about/"
 [params]
 postNavigation = false
-#themeColor = "theme-base-0d"
 highlightjs = true
 highlightjsstyle = "dark"
 highlightjslanguages = ["python"]
