@@ -47,6 +47,7 @@ Below plot shows the job satisfaction by country using the metric top 3 box. The
 Top countries for satisfaction score are Netherlands, Canada,  Sweden and United States. All these four countries has over 50% top 3 box score. 
 
 **Part II Does salary drive satisfaction? Is there anything else? **
+
 There are many factors which can drive job satisfaction, such as salary, health benefits and vacation. To figure out does salary drives job satisfaction. I check the average salary of the top five countries which has the highest average salary. 
 
 Below tables shows the average salary of these countries. 
