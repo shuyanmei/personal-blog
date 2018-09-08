@@ -4,6 +4,7 @@ date: '2018-09-05'
 layout: 'posts'
 featured: true
 ---
+![](/stackoverflow.jpg)
 
 **Introduction**
 
@@ -95,7 +96,7 @@ The top three factosr are vacation, health benefits and expected work hours.
 To figure out why people are leaving their job, I took a closer look at below question in the survey. 
 
 
->*You said before that you used to code as part of your job, but no longer do. To what extent do you agree or disagree with the following statements? *
+>*You said before that you used to code as part of your job, but no longer do. To what extent do you agree or disagree with the following statements?*
 
 
 The top three reasons for people to quit coding are:
