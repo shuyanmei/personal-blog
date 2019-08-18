@@ -3,7 +3,7 @@ relativeURLs = true
 canonifyURLs = true
 languageCode = "en-us"
 title = "SHUYAN"
-theme = "ananke"
+theme = "hyde"
 markdown = "multimarkdown"
 # Main Menu
 [[menu.main]]
